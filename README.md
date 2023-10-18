@@ -1,5 +1,5 @@
 ## Hello World! My name is Francisco.
-#### :computer: Web Developer
+**:computer: Web Developer**
 
 I started my studies at Digital House, and I am currently pursuing a degree in Information Systems at the University of Buenos Aires.
 
