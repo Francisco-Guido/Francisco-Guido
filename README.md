@@ -1,39 +1,31 @@
-## ¡Hola Mundo! Mi nombre es Francisco.
-#### :computer: Desarrollador Web
+## Hello World! My name is Francisco.
+#### :computer: Web Developer
 
-Inicie mis estudios en Digital House y actualmente estoy desarrolando distintos proyectos para poder seguir aprendiendo.
+I started my studies at Digital House, and I am currently pursuing a degree in Information Systems at the University of Buenos Aires.
 
-Soy creativo, responsable, dedicado y con una gran predisposicion al usuario.
+I currently work in the financial sector, and throughout my professional career, I have been involved in this field.
 
-Tengo 24 años y actualmente vivo en Buenos Aires, Argentina
+I am 24 years old and live in Buenos Aires, Argentina.
 
+### Skills:       
 
-### Lenguajes y tecnologías con las que he trabajado:       
-
-#### ⚡ Front End
-
-- Javascript  
+#### ⚡ Tecnologías
+- Javascript
+- Typescript
+- JAVA
+- Node
 - HTML5
 - CSS3
 - React.js
-
-##### Librerias
-- Bootstrap
-- Tailwind
-<br/>
-
-#### ⚡ Back End
-- Node.js
-<br/>
 
 #### ⚡ Base de datos
 - MySQL
 - SQL
 <br/>
 
-### A continuacion les dejaré enlaces en los cuales podran conocerme un poco más :slightly_smiling_face:
+### Below, I'll provide links where you can get to know me a little more :slightly_smiling_face:
 
-- [Proyecto grupal realizado en Digital House](https://dead-fellas.herokuapp.com/)
+- [Group project done at Digital House (2021)](https://dead-fellas.herokuapp.com/)
 - [LinkedIn](https://www.linkedin.com/in/francisco-nicolas-guido-762aab199/)
 
 <!--
