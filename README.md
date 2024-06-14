@@ -5,18 +5,18 @@ I started my studies at Digital House, and I am currently pursuing a degree in I
 
 I currently work in the financial sector, and throughout my professional career, I have been involved in this field.
 
-I am 24 years old and live in Buenos Aires, Argentina.
+I am 25 years old and live in Buenos Aires, Argentina.
 
 ### Skills:       
 
 #### ⚡ Tecnologías
 - Javascript
 - Typescript
-- JAVA
+- Java
 - Node
-- HTML5
-- CSS3
-- React.js
+- HTML
+- CSS
+- React
 
 #### ⚡ Base de datos
 - MySQL
